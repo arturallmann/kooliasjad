@@ -24,6 +24,6 @@ nimeserverite päringute tulemused:
 162.251.82.248
 162.251.82.251
 ```
-tulemus on lõplik vastus
-kõik serverid vastasid
-Artur Allmann
+-tulemus on lõplik vastus
+-kõik serverid vastasid
+-Artur Allmann
